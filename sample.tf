@@ -24,18 +24,3 @@ resource "s3_bucket" {
     lkasdfljlkasdf
 
 }
-
-resource "vpc" "new"{
-
-
-    kjlsdlfjklsdjfklaf
-    lkasjdklfjaklsdf
-    aksdfklajsdfklafds
-
-    jjklsdjfklsdf
-    jlksadjlfkjasdf
-    test
-    klsjdljfkldsjfioweifojwef
-    jawefhriouwefnoiwoifawe
-    weofhowiofjewiofjowe
-}
