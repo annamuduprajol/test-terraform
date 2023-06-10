@@ -33,4 +33,9 @@ resource "vpc" "new"{
     aksdfklajsdfklafds
 
     jjklsdjfklsdf
+    jlksadjlfkjasdf
+    test
+    klsjdljfkldsjfioweifojwef
+    jawefhriouwefnoiwoifawe
+    weofhowiofjewiofjowe
 }
