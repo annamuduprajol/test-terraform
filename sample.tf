@@ -24,3 +24,13 @@ resource "s3_bucket" {
     lkasdfljlkasdf
 
 }
+
+resource "vpc" "new"{
+
+
+    kjlsdlfjklsdjfklaf
+    lkasjdklfjaklsdf
+    aksdfklajsdfklafds
+
+    jjklsdjfklsdf
+}
